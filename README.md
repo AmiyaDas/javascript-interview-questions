@@ -39,6 +39,9 @@ You can download the PDF and Epub version of this repository from the latest run
 ---
 
 ### Table of Contents
+:green_heart: done.
+
+:heavy_heart_exclamation: important! plz revisit.
 
 | No. | Questions                                                                                                                                                         |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
